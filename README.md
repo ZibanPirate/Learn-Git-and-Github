@@ -87,7 +87,27 @@ After Logging in, you will face an interface similar to this one, And this will 
 
 ### x13 : Installing Git on your machine : 
 
-Installing Git deffers from an Operation System to another, So follow this detailed tutorial with images to do that. [Installing Git on your Machine | Windows,OSX and Linux]()
+Installing Git deffers from an Operation System to another, So follow this detailed tutorial with images to do that. [Installing Git on your Machine | Windows,OSX and Linux](git_install.md)
+
+### x14 : Configuring Git
+After installing git, now you have to configure the name and the email that you'll use for your next contributions and modifications.
+To do that, open the terminal OR Git CMD (For Windows Users), and type :
+```
+git config --global user.name "YOUR NAME"
+git config --global user.email "YOUREMAIL@MAIL.COM"
+```
+
+### x14 : Creating a repository :
+To do that, 
+
+-   1 - Go back to you Github Dashboard.
+-   2 - Create a new repository ![aze](https://i.imgur.com/6kWsnjg.png)
+-   3 - Name your repository hello-world.
+-   4 - Add the following Description `#LearningWithDzCode`
+-   5 - Make the repository Public, Add a Readme file and create it.![Add new repo](https://i.imgur.com/1rZE99v.png)
+-   6 - CONGRATULATIONS ! You just created your first Git repository ♥️ ![Congrats](https://i.imgur.com/gJUKJxD.png)
+
+<b>On the next Lesson 0x1, You will learn some git commands, the essentials and how to contribute and do modifications on Git repos.<b>
 
 Start by learning Git and Github
 ### Check here the list of [Algerian Github users](Algerian-gh-users.md)
