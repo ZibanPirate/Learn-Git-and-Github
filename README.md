@@ -87,7 +87,7 @@ After Logging in, you will face an interface similar to this one, And this will 
 
 ### x13 : Installing Git on your machine : 
 
-Installing Git deffers from an Operation System to another, So follow this detailed tutorial with images to do that. [Installing Git on your Machine | Windows,OSX and Linux](git_install.md)
+Installing Git deffers from an Operation System to another, So follow this detailed tutorial with images to do that. [Installing Git on Windows,OSX and Linux](git_install.md)
 
 ### x14 : Configuring Git
 After installing git, now you have to configure the name and the email that you'll use for your next contributions and modifications.
