@@ -1,5 +1,5 @@
 # Learn Git and Github
-![Learn Git and Github](https://www.freecodecamp.org/news/content/images/2019/11/cover-pic.jpeg)
+![Learn Git and Github](https://i.imgur.com/bk9Cvuv.png)
 # Lesson 0x0 : Hello World
 
 [The Hello World project](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
