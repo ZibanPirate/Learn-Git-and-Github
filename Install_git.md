@@ -78,3 +78,37 @@ git --version
 and you should have something like this :
 
 ![MacOs](https://i.imgur.com/iLZXul9.png)
+
+
+## Linux :
+### Downloading and Installing : 
+To install Git on Linux, you will only need 1 command.
+Of course this command will depend on your Linux Distribution.
+
+*   Apt-Based (Like: Debian,Ubuntu ...) : 
+    ```
+    apt install git
+    ```
+*   Pacman-Based (Like: Arch,Menjaro ...) :
+    ```
+    pacman -S git
+    ```
+*   Yum or DNF Based ( Redhat, CentOs...) :
+    ```
+    dnf install git / yum install git
+    ```
+![Install](https://i.imgur.com/usD9NCK.png)
+
+
+### Checking : 
+
+To check if Git is installed successfully, Open a terminal and type 
+
+``` 
+git --version
+```
+and you should have something like this :
+
+![Installa](https://i.imgur.com/90CkOaz.png)
+
+© 2020 - DzCode - Sofiane Hamlaooui - Making the world a better place 🌎 
