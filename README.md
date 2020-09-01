@@ -35,6 +35,35 @@ There are two ways you can host your repositories. One is online (on the cloud) 
 
 And here we can jump to our [x03](README.md#x03) and talk about Github.
 
+## x03 : What is Github ? 
+
+GitHub is a code hosting platform for version control and collaboration. 
+
+As I said on [x02](README.md#x02), we will need somewhere to host our Code, and Github is our solution now!
+
+But, Why Github and not any other hosting solutions ?
+
+*      It makes it easy to contribute to your open source projects
+            
+            To be honest, nearly every open-source project uses GitHub to manage their project.
+
+*       Documentation :
+
+            By using GitHub, you make it easier to get excellent documentation. Their help section and guides have articles for nearly any topic related to git that you can think of.
+
+*       Showcase your work : 
+            
+            Are you a developer and wishes to attract recruiters? GitHub is the best tool you can rely on for this. Today, when searching for new recruits for their project, most companies look into the GitHub profiles.
+
+*       Markdown : 
+
+            Well! that's what I'm using right now to write this.
+            Markdown allows you to use a simple text editor to write formatted documents.
+            GitHub has revolutionized writing by channeling everything through Markdown
+
+Here you can find all the features Github can offer if you want to know more : [Github Features](https://github.com/features)
+
+
 
 
 Start by learning Git and Github
