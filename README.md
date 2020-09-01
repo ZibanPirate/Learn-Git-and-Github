@@ -49,11 +49,15 @@ But, Why Github and not any other hosting solutions ?
 
 *       Documentation :
 
-            By using GitHub, you make it easier to get excellent documentation. Their help section and guides have articles for nearly any topic related to git that you can think of.
+            By using GitHub, you make it easier to get excellent documentation. 
+            Their help section and guides have articles for nearly any topic related 
+            to git that you can think of.
 
 *       Showcase your work : 
             
-            Are you a developer and wishes to attract recruiters? GitHub is the best tool you can rely on for this. Today, when searching for new recruits for their project, most companies look into the GitHub profiles.
+            Are you a developer and wishes to attract recruiters? 
+            GitHub is the best tool you can rely on for this. 
+            Today, when searching for new recruits for their project, most companies look into the GitHub profiles.
 
 *       Markdown : 
 
