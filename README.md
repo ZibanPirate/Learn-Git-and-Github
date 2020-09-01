@@ -85,6 +85,10 @@ After Logging in, you will face an interface similar to this one, And this will 
 
 ![Github Dashboard](https://i.imgur.com/5yF11Hg.png)
 
+### x13 : Installing Git on your machine : 
+
+Installing Git deffers from an Operation System to another, So follow this detailed tutorial with images to do that. [Installing Git on your Machine | Windows,OSX and Linux]()
+
 Start by learning Git and Github
 ### Check here the list of [Algerian Github users](Algerian-gh-users.md)
 

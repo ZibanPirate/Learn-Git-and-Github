@@ -1,4 +1,4 @@
-# Installing Git 
+# Installing Git on your Machine | Windows,OSX and Linux
 This Tutorial will show you how to install Git depending on the Operation System you are using.
 
 ## Windows : 
