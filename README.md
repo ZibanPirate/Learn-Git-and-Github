@@ -1,5 +1,18 @@
 # Learn-Git-and-Github
-### This repo is just a template that we are going to use later for teaching and growing the Open Source Community 
+
+# Lesson 0x0 : Hello World
+
+[The Hello World project](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
+
+You’ll learn how to:
+
+*   Create and use a repository
+*   Start and manage a new branch
+*   Make changes to a file and push them to GitHub as commits
+*   Open and merge a pull request
+
+But before doing that, let's first learn more about Github and Git and how they are marking the world a better place.
+
 Start by learning Git and Github
 ### Check here the list of [Algerian Github users](Algerian-gh-users.md)
 
