@@ -21,7 +21,7 @@ Before going throught this installation process, know that using Git is by comma
 
     to do that, open a cmd [WIN+R] and type `cmd`
     
-    ![IMG HERE](IMG HERE)
+    ![ow To](http://167.172.168.122/this.gif)
 
     and type : 
     
