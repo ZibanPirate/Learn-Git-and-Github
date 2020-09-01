@@ -13,15 +13,27 @@ You’ll learn how to:
 
 But before doing that, let's first learn more about Github and Git and how they are marking the world a better place.
 
+
 ## x01 : What is Git ? 
 
 Git is a free, open-source version control software. This basically means that it is a content tracker.
 
-Real life projects generally have multiple developers working in parallel. So they need a version control system like Git to make sure that there are no code conflicts between them.
+Real life projects generally have multiple developers working in parallel. So they need a [Version Control System](https://en.wikipedia.org/wiki/Version_control) like Git to make sure that there are no code conflicts between them.
 
-So a version control system allows developers to revert and go back to an older version, check modifications, follow them and keeping the whole work organised between a full team of coworkers or "Code-friends".
+So a [Version Control System](https://en.wikipedia.org/wiki/Version_control) allows developers to revert and go back to an older version, check modifications, follow them and keep the whole work organised between a full team of coworkers or "Code-friends".
 
 And to do that, they use [The Branching System](https://en.wikipedia.org/wiki/Branching_(version_control)) in Git that allows developers to work individually on a task (For example: One branch -> One task OR One branch -> One developer). Basically think of Git as a small software application that controls your code base, if you’re a developer.
+
+
+## x02 : What are Git repositories ?
+
+A repository (or “Repo” for short) is a project that contains multiple files. In our case a repository will contain code-based files.
+
+So, if we want to start using Git and its amazing "Branching and Version Controlling" Systems, we need to know where to host our repositories.
+
+There are two ways you can host your repositories. One is online (on the cloud) and the second is offline (self-installed on your server).
+
+And here we can jump to our [x03](README.md#x03) and talk about Github.
 
 
 
