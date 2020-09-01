@@ -80,6 +80,10 @@ If not, follow this link to Join GitHub : [Join GitHub](https://github.com/join)
 
 ### x12 : Logging in and seeing Github's interface for the first time
 
+After Logging in, you will face an interface similar to this one, And this will be your Github's Dashboard.
+( I don't think it will be as full as mine but that is what I hope for all Algerians ♥️)
+
+![Github Dashboard](https://i.imgur.com/5yF11Hg.png)
 
 Start by learning Git and Github
 ### Check here the list of [Algerian Github users](Algerian-gh-users.md)
