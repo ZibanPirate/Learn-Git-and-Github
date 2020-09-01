@@ -13,6 +13,17 @@ You’ll learn how to:
 
 But before doing that, let's first learn more about Github and Git and how they are marking the world a better place.
 
+## x01 : What is Git ? 
+
+Git is a free, open-source version control software. This basically means that it is a content tracker.
+
+Real life projects generally have multiple developers working in parallel. So they need a version control system like Git to make sure that there are no code conflicts between them.
+
+So a version control system allows developers to revert and go back to an older version, check modifications, follow them and keeping the whole work organised between a full team of coworkers or "Code-friends".
+
+And to do that, they use [The Branching System](https://en.wikipedia.org/wiki/Branching_(version_control)) in Git that allows developers to work individually on a task (For example: One branch -> One task OR One branch -> One developer). Basically think of Git as a small software application that controls your code base, if you’re a developer.
+
+
 
 Start by learning Git and Github
 ### Check here the list of [Algerian Github users](Algerian-gh-users.md)
