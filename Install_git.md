@@ -33,7 +33,7 @@ Before going throught this installation process, know that using Git is by comma
     ![IMG HERE](IMG HERE)
 
 
-* Method 2 ( Recommanded ) : 
+* Method 2 (Recommanded) : 
 
     With this method, you will just do the 3 steps in 1 step.
     You can do that by downloading an application called [Cmder](https://cmder.net/).
@@ -54,3 +54,28 @@ Before going throught this installation process, know that using Git is by comma
     and you should have something like this :
 
     ![IMG HERE](IMG HERE)
+
+## Mac Os : 
+
+### Downloading & Installing : 
+You can install Git on MacOs by :
+*   Using [Homebrew](https://brew.sh/) (Recommended), with this command :
+
+    ``` 
+    brew install git
+    ```
+    
+
+*   Using the Git osx installer that you can download here : [OSX-Installer](https://sourceforge.net/projects/git-osx-installer/)
+
+    ![MacOs Installation](https://i.imgur.com/55FTJuM.png)
+
+### Checking : 
+To check if Git is installed successfully, Open a terminal and type 
+
+``` 
+git --version
+```
+and you should have something like this :
+
+![IMG HERE](IMG HERE)
