@@ -57,7 +57,8 @@ But, Why Github and not any other hosting solutions ?
             
             Are you a developer and wishes to attract recruiters? 
             GitHub is the best tool you can rely on for this. 
-            Today, when searching for new recruits for their project, most companies look into the GitHub profiles.
+            Today, when searching for new recruits for their project, 
+            most companies look into the GitHub profiles.
 
 *       Markdown : 
 
