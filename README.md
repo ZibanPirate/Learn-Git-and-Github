@@ -1,4 +1,4 @@
-# Learn-Git-and-Github
+# Learn Git and Github
 
 # Lesson 0x0 : Hello World
 
@@ -13,8 +13,9 @@ You’ll learn how to:
 
 But before doing that, let's first learn more about Github and Git and how they are marking the world a better place.
 
+## x00 What is Git and Github ?
 
-## x01 : What is Git ? 
+### x01 : What is Git ? 
 
 Git is a free, open-source version control software. This basically means that it is a content tracker.
 
@@ -25,7 +26,7 @@ So a [Version Control System](https://en.wikipedia.org/wiki/Version_control) all
 And to do that, they use [The Branching System](https://en.wikipedia.org/wiki/Branching_(version_control)) in Git that allows developers to work individually on a task (For example: One branch -> One task OR One branch -> One developer). Basically think of Git as a small software application that controls your code base, if you’re a developer.
 
 
-## x02 : What are Git repositories ?
+### x02 : What are Git repositories ?
 
 A repository (or “Repo” for short) is a project that contains multiple files. In our case a repository will contain code-based files.
 
@@ -33,13 +34,13 @@ So, if we want to start using Git and its amazing "Branching and Version Control
 
 There are two ways you can host your repositories. One is online (on the cloud) and the second is offline (self-installed on your server).
 
-And here we can jump to our [x03](README.md#x03) and talk about Github.
+And here we can jump to our [x03](README.md#x03--what-is-github-) and talk about Github.
 
-## x03 : What is Github ? 
+### x03 : What is Github ? 
 
 GitHub is a code hosting platform for version control and collaboration. 
 
-As I said on [x02](README.md#x02), we will need somewhere to host our Code, and Github is our solution now!
+As I said on [x02](README.md#x02--what-are-git-repositories-), we will need somewhere to host our Code, and Github is our solution now!
 
 But, Why Github and not any other hosting solutions ?
 
@@ -68,6 +69,16 @@ But, Why Github and not any other hosting solutions ?
 
 Here you can find all the features Github can offer if you want to know more : [Github Features](https://github.com/features)
 
+## x10 : Making your first Git repository 
+
+### x11 : Creating a Github Account :
+I mean, you are already here! it is a probability of 1% if you don't already have an account.
+
+If not, follow this link to Join GitHub : [Join GitHub](https://github.com/join)
+
+![Create Your Account](https://i.imgur.com/9lFgdA0.png)
+
+### x12 : Logging in and seeing Github's interface for the first time
 
 
 Start by learning Git and Github
