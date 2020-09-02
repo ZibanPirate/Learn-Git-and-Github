@@ -11,6 +11,12 @@ So, the first step is to learn how create one, to do that you can follow the ste
 
 >   we are taking the [dzcode.io](https://github.com/dzcode-io/dzcode.io) repository as an example
 
--   1 ![](https://i.imgur.com/Axaf1gb.png)
+-   1 ![](https://i.imgur.com/IGTpRPX.png) ![](https://i.imgur.com/kDU7m5T.png)
+
+-   2 - Once you have created a new issue, you will be greeted by the screen below. Here you will provide
+
+    - A title for your issue
+    - A body for your issue to write a response or upload a screenshot
+    - A submission button
 
 
