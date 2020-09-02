@@ -7,25 +7,25 @@
 
 ## Lessons : 
 
-[​Chapter 0 - Hello World](l_HelloWorld.md)
+[​Chapter 0 - Hello World](lessons/HelloWorld.md)
 
-[​Chapter 1 - Make your first commit](l_HelloWorld.md)
+[​Chapter 1 - Make your first commit](lessons/HelloWorld.md)
 
-[​Chapter 2 - NOT YET](l_HelloWorld.md)
+[​Chapter 2 - NOT YET](lessons/HelloWorld.md)
 
-[​Chapter 3 - NOT YET](l_HelloWorld.md)
+[​Chapter 3 - NOT YET](lessons/HelloWorld.md)
 
-[​Chapter 4 - NOT YET](l_HelloWorld.md)
+[​Chapter 4 - NOT YET](lessons/HelloWorld.md)
 
-[​Chapter 5 - NOT YET](l_HelloWorld.md)
+[​Chapter 5 - NOT YET](lessons/HelloWorld.md)
 
-[​Chapter 6 - NOT YET](l_HelloWorld.md)
+[​Chapter 6 - NOT YET](lessons/HelloWorld.md)
 
-[​Chapter 7 - NOT YET](l_HelloWorld.md)
+[​Chapter 7 - NOT YET](lessons/HelloWorld.md)
 
 
 ## Tutorials :
- [​Install Git, Windows, OSX and Linux](t_GitInstall.md)
+ [​Install Git, Windows, OSX and Linux](tutorials/GitInstall.md)
 
 
  # Contribute ?

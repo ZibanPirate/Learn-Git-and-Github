@@ -35,13 +35,13 @@ So, if we want to start using Git and its amazing "Branching and Version Control
 
 There are two ways you can host your repositories. One is online (on the cloud) and the second is offline (self-installed on your server).
 
-And here we can jump to our [x03](README.md#x03--what-is-github-) and talk about Github.
+And here we can jump to our [x03](#x03--what-is-github-) and talk about Github.
 
 ### x03 : What is Github ? 
 
 GitHub is a code hosting platform for version control and collaboration. 
 
-As I said on [x02](README.md#x02--what-are-git-repositories-), we will need somewhere to host our Code, and Github is our solution now!
+As I said on [x02](#x02--what-are-git-repositories-), we will need somewhere to host our Code, and Github is our solution now!
 
 But, Why Github and not any other hosting solutions ?
 
@@ -88,7 +88,7 @@ After Logging in, you will face an interface similar to this one, And this will 
 
 ### x13 : Installing Git on your machine : 
 
-Installing Git deffers from an Operation System to another, So follow this detailed tutorial with images to do that. [Installing Git on Windows,OSX and Linux](git_install.md)
+Installing Git deffers from an Operation System to another, So follow this detailed tutorial with images to do that. [Installing Git on Windows,OSX and Linux](../tutorials/GitInstall.md)
 
 ### x14 : Configuring Git
 After installing git, now you have to configure the name and the email that you'll use for your next contributions and modifications.
