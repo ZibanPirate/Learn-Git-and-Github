@@ -7,9 +7,9 @@
 
 ## Lessons : 
 
-[​Chapter 0 - Hello World](lessons/HelloWorld.md)
+[​Chapter 0 - Hello World](lessons/0x0-HelloWorld/HelloWorld.md)
 
-[​Chapter 1 - Make your first commit](lessons/HelloWorld.md)
+[​Chapter 1 - Make your first commit](lessons/0x1-CreateAnIssue/CreateAnIssue.md)
 
 [​Chapter 2 - NOT YET](lessons/HelloWorld.md)
 
