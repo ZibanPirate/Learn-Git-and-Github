@@ -20,9 +20,11 @@ To add new article simply do the following:
 
 -   2 - Clone it to your workspace or machine. ![](https://i.imgur.com/iNV3Uo5.png)
 
--   3 - Create a new folder `MyNewAricle` under `data/articles`
+-   3 - Create a new folder `MyNewAricleName` under `data/articles`
     
         on this example our article will be named " How To Add Your Own Article "
+
+-   4 - 
 
 
 
