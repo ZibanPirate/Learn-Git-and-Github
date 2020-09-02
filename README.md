@@ -48,4 +48,5 @@ If you do want to make and share your own :
 <a href="https://www.youtube.com/channel/UC_tLjuQaYotzERtaAo8Y4SQ"><img height="50" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/youtube.png?raw=true"></a>&nbsp;&nbsp;
 <br></div>
 
-© 2020 - DzCode - Sofiane Hamlaooui - Making the world a better place 🌎 
+<div align="center"><h4> © 2020 - DzCode - Sofiane Hamlaooui - Making the world a better place 🌎  </h3></div>
+
