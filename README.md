@@ -35,7 +35,7 @@ If you do want to make and share your own :
 
 -   Tutorials : Contact the owners to join us teaching people.
 
--   Articles : Follow this link [Add your own article](https://github.com/dzcode-io/dzcode.io#add-your-own-article) to add your own article to our website [DzCode.io](https://dzcode.io/Articles)
+-   Articles : Follow this link [Add your own article](tutorials/AddYourOwnArticle.md) to add your own article to our website [DzCode.io](https://dzcode.io/Articles)
 
 -   Fixing Typos : Do a pull request with your modifications and we will check and accept it as soon as possible.
 
