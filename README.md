@@ -46,6 +46,6 @@ If you do want to make and share your own :
 <a href="https://twitter.com/dzcode_io"><img height="50" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/dzcode.io"><img height="50" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UC_tLjuQaYotzERtaAo8Y4SQ"><img height="50" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/youtube.png?raw=true"></a>&nbsp;&nbsp;
-</div>
+<br></div>
 
 © 2020 - DzCode - Sofiane Hamlaooui - Making the world a better place 🌎 
