@@ -24,7 +24,7 @@ To add new article simply do the following:
 
 -   3 - Create a new folder `MyNewAricleName` under `data/articles`
     
-        on this example our article will be named " How To Add Your Own Article "
+>   on this example our article will be named " How To Add Your Own Article "
 
 -   4 - Add 2 files, `info.json` and `content.md`
         
@@ -46,7 +46,7 @@ To add new article simply do the following:
 
 <h3><b><i> And CONGRATS ! you have added your own article to our website. </h3></i></b>
 
-            > it won't be published until one of the admins accepts the Pull Request and validate your modifications.
+>   it won't be published until one of the admins accepts the Pull Request and validate your modifications.
 
 © 2020 - DzCode - Sofiane Hamlaooui - Making the world a better place 🌎
 
