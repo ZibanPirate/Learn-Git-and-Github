@@ -5,6 +5,17 @@
 
 # Table of Contents :
 
+## Prerequisites
+-   A quick understanding of the Linux Commands. Here is a small cheatsheet explaining the most important Linux Commands.
+    
+    You can find a small/simple Linux Commands Cheatsheet ( by [DaveChlid](https://twitter.com/Dave_Child)):
+
+    -   The Image Version of it : ![](https://i.imgur.com/R7IVdx1.jpg)
+
+    -   Or you can check the PDF verions of it here : [Linux Commands CheatSheet](https://github.com/dzcode-io/Linux-Commands/blob/master/pdf/LinuxCommandsCheatSheet.pdf)
+
+    Or, Check Our repository with full explanations of the [Linux Commands](https://github.com/dzcode-io/Linux-Commands)
+
 ## Lessons : 
 
 ### Module 0x0 : Hello World
