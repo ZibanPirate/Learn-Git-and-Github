@@ -3,9 +3,8 @@
 
 ### Here you find a list of the lessons, Resources and exercises gived by the DzCode team.
 
-# Table of Contents :
 
-## Prerequisites
+# Prerequisites
 -   A quick understanding of the Linux Commands. Here is a small cheatsheet explaining the most important Linux Commands.
     
     You can find a small/simple Linux Commands Cheatsheet ( by [DaveChlid](https://twitter.com/Dave_Child)):
@@ -15,6 +14,8 @@
     -   Or you can check the PDF verions of it here : [Linux Commands CheatSheet](https://github.com/dzcode-io/Linux-Commands/blob/master/pdf/LinuxCommandsCheatSheet.pdf)
 
     Or, Check Our repository with full explanations of the [Linux Commands](https://github.com/dzcode-io/Linux-Commands)
+
+# Table of Contents :
 
 ## Lessons : 
 
