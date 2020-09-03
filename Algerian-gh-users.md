@@ -53,3 +53,4 @@
 |Taym Haddadi               |Taym95            |Software developer                                                                                                                                       |https://github.com/Taym95            |
 |Djalal Harouni             |tixxdz            |Software developer                                                                                                                                       |https://github.com/tixxdz            |
 |Souames Annis              |anis-coding       |automated tools and scrapers                                                                                                                             |https://github.com/anis-coding       |
+|AlaaEddine Aouimeur              |AlaaEdAouimeur       |An Open source enthusiast                                                                                                                             |https://github.com/AlaaEdAouimeur       |
