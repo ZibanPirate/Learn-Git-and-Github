@@ -1,15 +1,13 @@
 # Learn Git and Github
 ![Learn Git and Github](https://i.imgur.com/bk9Cvuv.png)
 
-# Lesson 1x0 : Create an issue
+# 0x1.1 : Create an issue
 
 For a majority of your assignments you will create issues on GitHub.
 
 So, the first step is to learn how create one, to do that you can follow the steps below :
 
--   Go to the repository you want to create an issue on it.
-
->   we are taking the [dzcode.io](https://github.com/dzcode-io/dzcode.io) repository as an example.
+Go to the repository you want to create an issue on it.
 
 -   1 ![](https://i.imgur.com/IGTpRPX.png) ![](https://i.imgur.com/kDU7m5T.png)
 
@@ -25,15 +23,7 @@ So, the first step is to learn how create one, to do that you can follow the ste
 
 <h3><b>Congatulations you created an issue.</b></h3>
 
-## 1x0 Assignement : Create an issue
-
-Create an issue on the repository created on classroom and write on its body :
-
-```
-    Let's make Algeria great again and start that by learning Open Source.
-```
-
-# 1x1 : Git Basics pt. 1
+# 0x1.2 : Git Basics pt. 1
 
 As you have seen on the lesson [0x0](lessons/0x0-HelloWorld/HelloWorld.md) on how to create a repository.
 
@@ -84,7 +74,30 @@ To do that, Open a terminal and follow these steps :
     ```
     ![](https://i.imgur.com/XUVOe74.png)
 
-<h3><b><i> And that is it 😀 for the git basics part 1<h3><b><i> 
+<h3><b><i> And that is it 😀 for the git basics part 1</b></i></h3>
+
+# 0x1 Assignements : 
+
+-   1 - Create an issue :
+    
+    Create an issue on the repository created on your Github Classroom, and write on its body :
+
+    ``` 
+    Let's make Algeria great again and start that by learning Open Source.
+    ```
+
+-   2 - Share a screenshot of your work :
+    - [ ] Create a directory using the command `mkdir`
+    - [ ] In the directory you created initialize Git using `git init`
+    - [ ] Create a README.md file in your directory using the `touch` command
+    - [ ] Make sure README.md is in your _Working Directory_ by checking your status with `git status`
+    - [ ] Move README.md from the _Working Directory_ to the _Staging Area_ by using `git add`
+    - [ ] Make sure README.md is in your _Staging Area_ by checking your status with `git status`
+    - [ ] Commit README.md to your repository using `git commit`
+    - [ ] Make sure your _Working Directory_ and _Staging Area_ are clean with `git status`
+    - [ ] Make sure your commit has been logged into your repository by using `git log`
+
+    Once you have completed these steps, take a screenshot of your command line, with the steps above, and upload your screenshot to a new Issue titled " Chapter 0x1 Assignment. "
 
 © 2020 - DzCode - Sofiane Hamlaooui - Making the world a better place 🌎 
 
