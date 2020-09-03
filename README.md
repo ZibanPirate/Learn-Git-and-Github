@@ -7,21 +7,25 @@
 
 ## Lessons : 
 
-[​Chapter 0 - Hello World](lessons/0x0-HelloWorld/HelloWorld.md)
+### Module 0x0 : Hello World
 
-[​Chapter 1 - Make your first commit](lessons/0x1-CreateAnIssue/CreateAnIssue.md)
+[​Chapter 1 - Hello World](lessons/0x0-HelloWorld/HelloWorld.md)
 
-[​Chapter 2 - NOT YET](lessons/HelloWorld.md)
+[​Chapter 2 - Git Basics - Part 1](lessons/0x1-Git_Basics/Git_Basics_pt1.md) 
 
-[​Chapter 3 - NOT YET](lessons/HelloWorld.md)
+### Module 0x1 : 
 
-[​Chapter 4 - NOT YET](lessons/HelloWorld.md)
+[​Chapter 2 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
 
-[​Chapter 5 - NOT YET](lessons/HelloWorld.md)
+[​Chapter 3 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
 
-[​Chapter 6 - NOT YET](lessons/HelloWorld.md)
+[​Chapter 4 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
 
-[​Chapter 7 - NOT YET](lessons/HelloWorld.md)
+[​Chapter 5 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
+
+[​Chapter 6 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
+
+[​Chapter 7 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
 
 
 ## Tutorials :
