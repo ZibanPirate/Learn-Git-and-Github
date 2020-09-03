@@ -47,7 +47,7 @@ But, Why Github and not any other hosting solutions ?
 
 *      It makes it easy to contribute to your open source projects
             
-            -           To be honest, nearly every open-source project uses GitHub to manage their project.
+            To be honest, nearly every open-source project uses GitHub to manage their project.
 
 *       Documentation :
 
