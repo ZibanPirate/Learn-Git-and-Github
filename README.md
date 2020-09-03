@@ -47,7 +47,7 @@
 [How To Add Your Own Article to](tutorials/AddYourOwnArticle.md) [DzCode.io](https://dzcode.io)
 
 
- # Contribute :
+# Contribute :
 If you do want to make and share your own : 
 
 -   Lessons : Contact the owners to join us teaching people. 
