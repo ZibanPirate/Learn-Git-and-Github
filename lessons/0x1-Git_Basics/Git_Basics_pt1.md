@@ -21,7 +21,7 @@ Go to the repository you want to create an issue on it.
 -   3 - Your issue is created sucessfully.
     ![](https://i.imgur.com/yKhCA16.png)
 
-<h3><b>Congatulations you created an issue.</b></h3>
+<h3><b>Congatulations you have created an issue.</b></h3>
 
 # 0x1.2 : Git Basics pt. 1
 
