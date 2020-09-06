@@ -7,7 +7,7 @@
 
 # On this lesson you’ll learn how to:
 
-*   Create and use a repository
+*   Create and use a repository.
 
 But before doing that, let's first learn more about Github and Git and how they are marking the world a better place.
 
