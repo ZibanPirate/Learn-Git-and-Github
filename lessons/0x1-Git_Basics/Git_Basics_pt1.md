@@ -1,10 +1,14 @@
 # Learn Git and Github
 ![Learn Git and Github](https://i.imgur.com/bk9Cvuv.png)
 
+---
+
 # On this lesson you’ll learn how to:
 
 *   Create an issue.
 *   Some Git commands that would help you start your first repository.
+
+---
 
 # 0x1.1 : Create an issue
 
@@ -27,6 +31,8 @@ Go to the repository you want to create an issue on it.
     ![](https://i.imgur.com/yKhCA16.png)
 
 <h3><b>Congatulations you have created an issue.</b></h3>
+
+---
 
 # 0x1.2 : Git Basics pt. 1
 
@@ -81,8 +87,11 @@ To do that, Open a terminal and follow these steps :
 
 <h3><b><i> And that is it 😀 for the git basics part 1</b></i></h3>
 
+***
+***
 # 0x1 Assignements : 
-
+***
+***
 -   1 - Create an issue :
     
     Create an issue on the repository created on your Github Classroom, and write on its body :
