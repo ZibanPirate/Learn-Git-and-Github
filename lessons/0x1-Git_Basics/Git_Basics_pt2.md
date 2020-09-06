@@ -23,9 +23,12 @@ After doing that, add your file to the staging area and commit it.
     ```
     Coding with DzCode, let's start the Algerian Open Source Community Together.
     ```
+    
     ![](https://i.imgur.com/fOtIZFh.png)
 
--   2 - add your file to the staging area and commit it again : 
+
+-   2 - add your file to the staging area and commit it again :
+
     ![](https://i.imgur.com/CqHDK5A.png)
 
 
