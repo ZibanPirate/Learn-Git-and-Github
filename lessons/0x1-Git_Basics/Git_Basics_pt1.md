@@ -7,7 +7,7 @@
 # On this lesson you’ll learn how to:
 
 *   Create an issue.
-*   Some Git commands that would help you start your first repository.
+*   Some Git commands that would help you start your first repository. (git init, git status, git commit and git log )
 
 ---
 ---
@@ -97,13 +97,13 @@ To do that, Open a terminal and follow these steps :
 ***
 -   1 - Create an issue :
     
-    Create an issue on the repository created on your Github Classroom, and write on its body :
+    Create an issue on the repository created on your Github Classroom,its body :
 
     ``` 
     Let's make Algeria great again and start that by learning Open Source.
     ```
 
--   2 - Share a screenshot of your work :
+-   2 - Share a screenshot of your work ( on the same issue):
     - [ ] Create a directory using the command `mkdir`
     - [ ] In the directory you created initialize Git using `git init`
     - [ ] Create a README.md file in your directory using the `touch` command
@@ -114,7 +114,7 @@ To do that, Open a terminal and follow these steps :
     - [ ] Make sure your _Working Directory_ and _Staging Area_ are clean with `git status`
     - [ ] Make sure your commit has been logged into your repository by using `git log`
 
-    Once you have completed these steps, take a screenshot of your command line, with the steps above, and upload your screenshot to a new Issue titled " Chapter 0x1 Assignment. "
+    Once you have completed these steps, take a screenshot of your command line, with the steps above, and upload your screenshot to a new Issue titled `0x1 Assignements - Part 1`
 
 © 2020 - DzCode - Sofiane Hamlaooui - Making the world a better place 🌎 
 
