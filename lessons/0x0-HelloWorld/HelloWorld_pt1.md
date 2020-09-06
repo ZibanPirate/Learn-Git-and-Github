@@ -2,11 +2,13 @@
 ![Learn Git and Github](https://i.imgur.com/bk9Cvuv.png)
 
 ---
+---
 
 # 0x0 : Hello World
 
 [The Hello World project](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
 
+---
 ---
 
 # On this lesson you’ll learn how to:
@@ -15,6 +17,7 @@
 
 But before doing that, let's first learn more about Github and Git and how they are marking the world a better place.
 
+---
 ---
 
 ## x00 What is Git and Github ?
@@ -30,6 +33,7 @@ So a [Version Control System](https://en.wikipedia.org/wiki/Version_control) all
 And to do that, they use [The Branching System](https://en.wikipedia.org/wiki/Branching_(version_control)) in Git that allows developers to work individually on a task (For example: One branch -> One task OR One branch -> One developer). Basically think of Git as a small software application that controls your code base, if you’re a developer.
 
 ---
+---
 
 ### x02 : What are Git repositories ?
 
@@ -41,6 +45,7 @@ There are two ways you can host your repositories. One is online (on the cloud) 
 
 And here we can jump to our [x03](#x03--what-is-github-) and talk about Github.
 
+---
 ---
 
 ### x03 : What is Github ? 
@@ -76,6 +81,7 @@ But, Why Github and not any other hosting solutions ?
 
 Here you can find all the features Github can offer if you want to know more : [Github Features](https://github.com/features)
 
+---
 ---
 
 ## x10 : Making your first Git repository 
@@ -118,6 +124,7 @@ To do that,
 
 <b>On the next chapter, You will learn how Git works and its `The Three State Model`.</b>
 
+---
 ---
 
 © 2020 - DzCode - Sofiane Hamlaooui - Making the world a better place 🌎 
