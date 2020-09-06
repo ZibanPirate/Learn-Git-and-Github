@@ -3,7 +3,6 @@
 
 ### Here you find a list of the lessons, Resources and exercises gived by the DzCode team.
 
-
 # Prerequisites
 -   A quick understanding of the Linux Commands. Here is a small cheatsheet explaining the most important Linux Commands.
     
@@ -21,13 +20,16 @@
 
 ### Module 0x0 : Hello World
 
-[​Chapter 1 - Hello World](lessons/0x0-HelloWorld/HelloWorld.md)
+[​Chapter 1 - Hello World - Part 1 ](lessons/0x0-HelloWorld/HelloWorld_pt1.md)
 
-[​Chapter 2 - Git Basics - Part 1](lessons/0x1-Git_Basics/Git_Basics_pt1.md) 
+[​Chapter 2 - Hello World - Part 2 ](lessons/0x0-HelloWorld/HelloWorld_pt2.md)
+
 
 ### Module 0x1 : 
 
-[​Chapter 2 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
+[​Chapter 1 - Git Basics - Part 1](lessons/0x1-Git_Basics/Git_Basics_pt1.md)
+
+[​Chapter 2 - Git Basics - Part 2](lessons/0x1-Git_Basics/Git_Basics_pt2.md)
 
 [​Chapter 3 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
 
@@ -47,7 +49,7 @@
 [How To Add Your Own Article to](tutorials/AddYourOwnArticle.md) [DzCode.io](https://dzcode.io)
 
 
-# Contribute :
+ # Contribute :
 If you do want to make and share your own : 
 
 -   Lessons : Contact the owners to join us teaching people. 
