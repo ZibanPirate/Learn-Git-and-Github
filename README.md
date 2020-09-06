@@ -1,7 +1,11 @@
 # Learn Git and Github
 ![Learn Git and Github](https://i.imgur.com/bk9Cvuv.png)
 
+***
+
 ### Here you find a list of the lessons, Resources and exercises gived by the DzCode team.
+
+***
 
 # Prerequisites
 -   A quick understanding of the Linux Commands. Here is a small cheatsheet explaining the most important Linux Commands.
@@ -13,6 +17,8 @@
     -   Or you can check the PDF verions of it here : [Linux Commands CheatSheet](https://github.com/dzcode-io/Linux-Commands/blob/master/pdf/LinuxCommandsCheatSheet.pdf)
 
     Or, Check Our repository with full explanations of the [Linux Commands](https://github.com/dzcode-io/Linux-Commands)
+
+***
 
 # Table of Contents :
 
@@ -49,6 +55,8 @@
 [How To Add Your Own Article to](tutorials/AddYourOwnArticle.md) [DzCode.io](https://dzcode.io)
 
 
+***
+
  # Contribute :
 If you do want to make and share your own : 
 
@@ -60,6 +68,9 @@ If you do want to make and share your own :
 
 -   Fixing Typos : Do a pull request with your modifications and we will check and accept it as soon as possible.
 
+
+***
+
 # Check us on Social Media!
 
 <div align="center">
@@ -68,6 +79,8 @@ If you do want to make and share your own :
 <a href="https://www.facebook.com/dzcode.io"><img height="50" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UC_tLjuQaYotzERtaAo8Y4SQ"><img height="50" src="https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/youtube.png?raw=true"></a>&nbsp;&nbsp;
 <br></div>
+
+***
 
 <div align="center"><h4> © 2020 - DzCode - Sofiane Hamlaooui - Making the world a better place 🌎  </h3></div>
 
