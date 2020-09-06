@@ -15,10 +15,10 @@
 
 *   Create and use a repository.
 
-But before doing that, let's first learn more about Github and Git and how they are marking the world a better place.
+---
+---
 
----
----
+But before doing that, let's first learn more about Github and Git and how they are marking the world a better place.
 
 ## x00 What is Git and Github ?
 
