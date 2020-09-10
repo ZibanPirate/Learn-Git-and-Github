@@ -34,13 +34,13 @@
 [​Chapter 2 - Hello World - Part 2 ](lessons/0x0-HelloWorld/HelloWorld_pt2.md)
 
 
-### Module 0x1 : 
+### Module 0x1 : Git
 
 [​Chapter 1 - Git Basics - Part 1](lessons/0x1-Git_Basics/Git_Basics_pt1.md)
 
 [​Chapter 2 - Git Basics - Part 2](lessons/0x1-Git_Basics/Git_Basics_pt2.md)
 
-[​Chapter 3 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
+[​Chapter 3 - Going back in time](lessons/0x2-Going back in time/going_back_in_time.md)
 
 [​Chapter 4 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
 
@@ -50,6 +50,9 @@
 
 [​Chapter 7 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
 
+### Module 0x3 : GitHub
+
+[​Chapter 1 - NOT YET]()
 
 ## Tutorials :
 
