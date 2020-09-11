@@ -42,7 +42,7 @@
 
 [​Chapter 3 - Going back in time](lessons/0x2-Going_back_in_time/going_back_in_time.md)
 
-[​Chapter 4 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
+[​Chapter 4 - Set up who you are](lessons/0x4-Set_up_who_you_are/set_up_who_you_are.md)
 
 [​Chapter 5 - NOT YET](lessons/0x0-HelloWorld/HelloWorld.md)
 
