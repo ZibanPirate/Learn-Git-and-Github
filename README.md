@@ -38,9 +38,9 @@
 
 [​Chapter 1 - Git Basics - Part 1](lessons/0x1-Git_Basics/Git_Basics_pt1.md)
 
-[​Chapter 2 - Git Basics - Part 2](lessons/0x1-Git_Basics/Git_Basics_pt2.md)
+[​Chapter 2 - Git Basics - Part 2](lessons/0x2-Git_Basics/Git_Basics_pt2.md)
 
-[​Chapter 3 - Going back in time](lessons/0x2-Going_back_in_time/going_back_in_time.md)
+[​Chapter 3 - Going back in time](lessons/0x3-Going_back_in_time/going_back_in_time.md)
 
 [​Chapter 4 - Set up who you are](lessons/0x4-Set_up_who_you_are/set_up_who_you_are.md)
 
